@@ -1,0 +1,49 @@
+.head-title {
+    color: #00a65a;
+}
+.top-form {
+    float: left;
+    width: 200px;
+    margin: 5px;
+}
+body, .form-control, .btn, .treeview-menu>li>a {
+    font-size: 16px;
+}
+.main-sidebar {
+    background: #3c8dbc!important;
+}
+.skin-green-light .sidebar-menu>li>.treeview-menu {
+    background: #2f6686!important;
+}
+.main-sidebar p, .main-sidebar li a, .main-sidebar a {
+    color: #fff!important;
+}
+
+.skin-green-light .sidebar-menu>li:hover>a, .skin-green-light .sidebar-menu>li.active>a {
+    background:#00a65a;
+}
+.skin-green-light .sidebar-menu .treeview-menu li a {
+    color: #d2d6de!important;
+}
+.skin-green-light .sidebar-menu .treeview-menu li:hover a {
+    color: #fff!important;
+}
+#search-btn {
+    font-size: 14px!important;
+}
+/*invoice*/
+.invoice-title h2, .invoice-title h3 {
+    display: inline-block;
+}
+
+.table > tbody > tr > .no-line {
+    border-top: none;
+}
+
+.table > thead > tr > .no-line {
+    border-bottom: none;
+}
+
+.table > tbody > tr > .thick-line {
+    border-top: 2px solid;
+}
